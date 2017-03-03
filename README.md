@@ -1,2 +1,2 @@
 # my-test
-cloud guru repo
+this repo is for storing Sanjeev Book Depot Code
